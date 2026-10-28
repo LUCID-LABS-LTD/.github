@@ -5,7 +5,7 @@
 **Applied R&D & Multi-Disciplinary Venture Lab · Lagos, Nigeria**
 
 [![Website](https://img.shields.io/badge/WEB-lucidlabsltd.com-FFB000?style=for-the-badge&labelColor=0B0A08)](https://lucidlabsltd.com)
-[![Commission The Lab](https://img.shields.io/badge/B2B-COMMISSION_THE_LAB-FFB000?style=for-the-badge&labelColor=0B0A08)](https://cal.com/lucidlabs/discovery)
+[![Commission The Lab](https://img.shields.io/badge/B2B-COMMISSION_THE_LAB-FFB000?style=for-the-badge&labelColor=0B0A08)](https://cal.com/lucidlabsltd)
 [![YouTube Series](https://img.shields.io/badge/YOUTUBE-LAB_DISPATCHES-FFB000?style=for-the-badge&labelColor=0B0A08)](https://youtube.com/@LucidLabsLtd)
 [![Sponsor](https://img.shields.io/badge/PARTNERSHIPS-SPONSOR_A_BUILD-3FBF6B?style=for-the-badge&labelColor=0B0A08)](mailto:partnerships@lucidlabsltd.com)
 
